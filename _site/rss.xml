@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Your New Jekyll Site</title>
+    <link>http://leibowitz.me/blog</link>
+    <description>Blogging about stuffs</description>
+    <pubDate>Tue, 03 Mar 2015 00:00:00 -0500</pubDate>
+    <item>
+      <title>Bazaar Logic</title>
+      <link>http://leibowitz.me/blog/israel/2015/03/03/bazaar-logic.html</link>
+      <description>&lt;p&gt;Bibi had barely finished speaking before the criticism came rolling in:&lt;/p&gt;
+</description>
+      <pubDate>Tue, 03 Mar 2015 00:00:00 -0500</pubDate>
+      <dc:date>2015-03-03T00:00:00-05:00</dc:date>
+    </item>
+    <item>
+      <title>Blue-and-Whitewashing: Using Jews to cover up Anti-Semitism</title>
+      <link>http://leibowitz.me/blog/israel/2015/03/02/blue-and-whitewashing.html</link>
+      <description>&lt;p&gt;If you&amp;#39;re the type of person who is reading this blog (you poor unfortunate soul), chances are you&amp;#39;ve heard of the term &amp;quot;Jew-washing.&amp;quot; This term - coined by Yitzak Santis and Gerald M. Steinberg of &lt;a href=&quot;http://www.ngo-monitor.org/&quot;&gt;NGO Monitor&lt;/a&gt; in their article &lt;a href=&quot;http://www.thejewishweek.com/editorial-opinion/opinion/jew-washing-and-bds&quot;&gt;On ‘Jew-Washing’ And BDS: How Jewish anti-Israel activists are gaining influence among Christian groups.&lt;/a&gt; - is the pro-Israel attempt to fight fire with fire.&lt;/p&gt;
+</description>
+      <pubDate>Mon, 02 Mar 2015 05:18:00 -0500</pubDate>
+      <dc:date>2015-03-02T05:18:00-05:00</dc:date>
+    </item>
+    <item>
+      <title>About the Palestinian &quot;Refugees&quot;</title>
+      <link>http://leibowitz.me/blog/2015/02/26/about-palestinian-refugees.html</link>
+      <description>&lt;h5&gt;Should Israel let them &amp;quot;come back?&amp;quot;(hint: It already has!) &lt;br /&gt; &lt;br /&gt;&lt;/h5&gt;
+</description>
+      <pubDate>Thu, 26 Feb 2015 00:00:00 -0500</pubDate>
+      <dc:date>2015-02-26T00:00:00-05:00</dc:date>
+    </item>
+    <item>
+      <title>Welcome to Jekyll!</title>
+      <link>http://leibowitz.me/blog/thriller/comedy/horror/2013/11/10/welcome-to-jekyll.html</link>
+      <description>&lt;p&gt;You&amp;#39;ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code&gt;-w&lt;/code&gt; switch) to see your changes!
+To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention: YYYY-MM-DD-name-of-post.ext.&lt;/p&gt;
+</description>
+      <pubDate>Sun, 10 Nov 2013 05:18:00 -0500</pubDate>
+      <dc:date>2013-11-10T05:18:00-05:00</dc:date>
+    </item>
+    <dc:date>2015-03-03T00:00:00-05:00</dc:date>
+  </channel>
+</rss>
